@@ -6,6 +6,7 @@ Options:
   View-Condition: 'perm **'
   Refresh-Condition: 20
 
+
 #
 # Options:
 # {update/refresh: <ticks>} -> Hologram Tick Period
